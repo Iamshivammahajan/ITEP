@@ -1,0 +1,9 @@
+cost = 1600 
+rate = 25 
+length = 20 
+area = cost / rate 
+breadth = area / length 
+perimeter = 2 * (length + breadth) 
+print("Breadth =", breadth) 
+print("Perimeter =", perimeter) 
+print("Area =", area) 
