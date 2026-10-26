@@ -1,3 +1,5 @@
-sent = input("Enter a sentence: ")
-s = sent.split()
-print(f"Number of words: {len(s)}")
+def count_words():
+    sent = input("Enter a sentence: ")
+    s = sent.split()
+    print(f"Number of words: {len(s)}")
+count_words()
