@@ -9,4 +9,4 @@ def check_only_digit():
         print("Only digits")
     else:
         print("Not only digits")
-check_only_digit()
+check_only_digit() 
