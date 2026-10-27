@@ -11,8 +11,8 @@ def count():
             lowercase += 1
         elif "0" <= ch <= "9":
             digits += 1
-    else:
-        specialcharacters += 1
+        else:
+            specialcharacters += 1
     print(f"Uppercase: {uppercase}")
     print(f"Lowercase: {lowercase}")
     print(f"Digits: {digits}")
