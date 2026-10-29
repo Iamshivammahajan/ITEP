@@ -1,0 +1,17 @@
+Good Afternoon, everyone!
+
+Today, I would like to share an interesting piece of news about google and its software engineering interview process.
+
+According to recent reports, google is going to come up with its new code comprehension round in hiring process.
+
+Previously, interviews had focused more on solving programming problems using data structures and algorithms.
+
+However, this new approach focuses more on understanding existing code, identifying errors, debugging and improving code with the assistance of AI tools such as Gemini models.
+
+The main idea is to evaluate not only how well candidates can write code but also how effectively they can understand code and use AI responsibly by the help of prompt engineering.
+
+I believe this reflects an important change in the IT Industries hiring process.
+
+
+
+  
