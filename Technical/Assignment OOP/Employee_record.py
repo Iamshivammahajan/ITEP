@@ -1,3 +1,35 @@
+'''
+Employee Management System
+Problem
+
+Create an Employee class to manage employee details.
+
+Requirements
+
+Each employee should have:
+
+employee id
+name
+department
+salary
+Functionalities
+Display employee details
+Increase salary by percentage
+Count total employees created using a class variable
+
+Create employee object from a string:
+
+"101-Rahul-IT-50000"
+
+using a class method.
+
+Concepts Practiced
+constructor
+instance variables
+class variables
+class method
+instance methods
+'''
 class Employee:
     __counter = 0
     def __init__(self,id,name,department,salary):
